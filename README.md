@@ -1,7 +1,15 @@
-# Getting Started with Create React App
+# Create React App Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and configured by myself to use as a template for other projects.
 
+# Configurations
+
+✔ ESLint
+✔ Prettier
+✔ SASS
+✔ Airbnb Style Guide
+✔ Import Helpers
+✔ VSCode Extensions and Settings Recommended
 ## Available Scripts
 
 In the project directory, you can run:
